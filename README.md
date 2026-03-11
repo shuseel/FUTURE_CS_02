@@ -14,6 +14,17 @@ Phishing Email Detection & Awareness Report
 *	VirusTotal (URL Reputation Analysis)
 *	WHOIS Lookup (Domain Investigation)
 ## Analysis Summary
-Two phishing sample emails that have several "red flags" signal a malicious intent, containing urgent language and a suspicious HTTP link, were analyzed. The domain showed low reputation and redacted ownership information. These emails were classified as High Risk Phishing.
+Two phishing sample emails with several "red flags" indicating malicious intent, including urgent language and a suspicious HTTP link, were analyzed. The domain showed low reputation and redacted ownership information. These emails were classified as High Risk Phishing.
+## Key Phishing Indicators
+* Display Name Spoofing
+* Generic Greeting
+* Induced Panic/Urgency
+* Suspicious Hyperlink
+* Grammatical Oddities
+* Domain Discrepancy
+* The "Vague" Sender
+* High-Stakes Hook
+* Hidden URL
+* Administrative Threat
 
   
