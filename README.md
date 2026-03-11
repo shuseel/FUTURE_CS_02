@@ -26,6 +26,12 @@ Two phishing sample emails with several "red flags" indicating malicious intent,
 * High-Stakes Hook
 * Hidden URL
 * Administrative Threat
+## Files Included
+* [Phishing Email Detection & Awareness Report](https://github.com/shuseel/FUTURE_CS_02/blob/8cf6cf5214cffc7cb1e46a2e54c537ebd3ebd640/Phishing%20Email%20Detection%20%26%20Awareness%20Report-shuseel.pdf)
+* Email Header Analysis Evidence
+* VirusTotal Evidence
+* WHOIS Domain Evidence
+  
 # Author
 Shuseel Baral
 
