@@ -26,5 +26,8 @@ Two phishing sample emails with several "red flags" indicating malicious intent,
 * High-Stakes Hook
 * Hidden URL
 * Administrative Threat
+# Author
+Shuseel Baral
 
+Cyber Security Intern – Future Interns (2026)
   
